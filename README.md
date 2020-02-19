@@ -6,4 +6,6 @@ Simply run the script to generate a fractal of 10 rotations or run from command 
 
 Use Fractals_with_graphics to generate nicer looking images.
 
+![Sample Dragon Curve](https://github.com/MatInGit/Fractal-Generator/sample_curve.png)
+
 Info on fractals: https://en.wikipedia.org/wiki/Dragon_curve
